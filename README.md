@@ -6,7 +6,7 @@
 
 #### You need Aliucord Themer Plugin
 
-- 1. Install the plugin from https://github.com/Aliucord/DiscordThemer/releases/
-- 2. Download the PureAmoled.json
-- 3. Go to Themer settings and import the .json file
-- 4. In Themer settings enable custom fonts and sounds
++ 1\. Install the plugin from https://github.com/Aliucord/DiscordThemer/releases/
++ 2\. Download the PureAmoled.json
++ 3\. Go to Themer settings and import the .json file
+  + (Optional) In Themer settings enable custom fonts and sounds
