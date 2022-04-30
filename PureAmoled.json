@@ -40,10 +40,10 @@
         "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf"
     },
     "manifest": {
-        "version": "2.6",
+        "version": "2.7",
         "name": "Pure Amoled ",
-        "author": "Akita"
-        "updater": "https://raw.githubusercontent.com/WarishNet/Pure-Amoled/main/PureAmoled.json?token=GHSAT0AAAAAABTSMU22ORPFL5I6H7UAR7X6YTNPEGA"
+        "author": "Akita",
+        "updater": "https://raw.githubusercontent.com/WarishNet/Pure-Amoled/main/PureAmoled.json"
     },
     "simple_colors": {
         "accent": -1052689,
