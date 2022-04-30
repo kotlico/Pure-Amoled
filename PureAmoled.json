@@ -18,7 +18,11 @@
         "uikit_btn_bg_color_selector_secondary_light": -15000543,
         "uikit_btn_compound_color_selector_light": -1124073472,
         "primary_dark_660": 1459617792,
-        "button_material_dark": -14013910
+        "button_material_dark": -14013910,
+        "uikit_settings_item_text_color_light": -13882324,
+        "primary_text_default_material_light": -1644826,
+        "primary_200": -11184811,
+        "primary_dark_200": -1118482
     },
     "drawable_tints": {
         "drawable_button_grey": -8288631,
@@ -36,20 +40,21 @@
         "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968561613256929280\/JosefinSans-Regular.ttf",
         "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968561891834232862\/UbuntuMono-Bold.ttf",
         "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968561891834232862\/UbuntuMono-Bold.ttf",
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf",
         "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf",
-        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf"
+        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf"
     },
     "manifest": {
-        "version": "2.7",
+        "version": "2.8",
         "name": "Pure Amoled ",
         "author": "Akita#0922",
-        "updater": "https://raw.githubusercontent.com/WarishNet/Pure-Amoled/main/PureAmoled.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Pure-Amoled\/main\/PureAmoled.json"
     },
     "simple_colors": {
         "accent": -1052689,
         "background": -16777216,
         "background_secondary": -16777216,
-        "mention_highlight": -1691603924,
+        "mention_highlight": -13882324,
         "blocked_bg": -15925248,
         "active_channel": -8355712
     },
