@@ -11,44 +11,32 @@
         "link": -10197916,
         "link_light": -4671304,
         "material_grey_50": -13882066,
-        "uikit_btn_bg_color_selector_background_accent_light": -15263977,
-        "uikit_btn_bg_color_selector_green": -15082131,
+        "uikit_btn_bg_color_selector_background_accent_light": -15724528,
+        "uikit_btn_bg_color_selector_green": -16777216,
         "uikit_btn_bg_color_selector_red": -14211031,
-        "uikit_btn_bg_color_selector_secondary_dark": -1644826,
+        "uikit_btn_bg_color_selector_secondary_dark": -16777216,
         "uikit_btn_bg_color_selector_secondary_light": -15592941,
         "uikit_btn_compound_color_selector_light": -1124073472,
         "primary_dark_660": 1459617792,
         "button_material_dark": -14013910,
+        "uikit_settings_item_text_color_light": -13882324,
         "primary_text_default_material_light": -1644826,
         "primary_200": -11184811,
         "primary_dark_200": -1118482,
         "uikit_settings_item_text_color_dark": -1381654,
         "primary_dark_360": -8355712,
         "white_500": -1776412,
-        "primary_700": -14606047,
-        "primary_700_alpha_60": -10197916,
-        "brand_new_560": -10197916,
-        "primary_600": -1644826,
-        "primary_300": -11184811,
-        "link_500": -1644826,
-        "brand_new_630": -14013910,
-        "brand_new_360": -10197916,
-        "uikit_btn_bg_color_selector_brand": -6907235,
-        "primary_dark_300": -2499620,
-        "brand_new_600": -855053,
-        "uikit_settings_item_text_color_light": -13882324,
-        "primary_560": -6907235
+        "primary_700": -16053493
     },
     "drawable_tints": {
-        "drawable_button_grey": -13882324,
+        "drawable_button_grey": -8288631,
         "drawable_overlay_channels_active_dark": 2055308937,
-        "drawable_overlay_channels_selected_dark": -13882324,
+        "drawable_overlay_channels_selected_dark": -14935012,
         "ic_status_idle_16dp": -2829100,
         "ic_status_dnd_16dp": -2829100,
         "ic_status_online_16dp": -2829100,
-        "ic_status_invisible_16dp": -12632257,
-        "ic_status_24dp": -2829100,
-        "drawable_voice_indicator_speaking": -1644826
+        "ic_status_invisible_16dp": -15132391,
+        "ic_status_24dp": -2829100
     },
     "fonts": {
         "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968529060412149760\/JosefinSans-Medium.ttf",
@@ -61,17 +49,17 @@
         "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf"
     },
     "manifest": {
-        "name": "Pure Amoled ",
+        "version": "3.3",
+        "name": "Pure Amoled",
         "author": "Akita#0922",
-        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Pure-Amoled\/main\/PureAmoled.json",
-        "version": "3.2"
+        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Pure-Amoled\/main\/PureAmoled.json"
     },
     "simple_colors": {
         "accent": -1052689,
-        "background": -14869219,
-        "background_secondary": -14540254,
+        "background": -15987700,
+        "background_secondary": -16777216,
         "mention_highlight": -13882324,
-        "blocked_bg": -15263977,
+        "blocked_bg": -15925248,
         "active_channel": -8355712
     },
     "raws": {
