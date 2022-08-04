@@ -22,7 +22,8 @@
         "uikit_settings_item_text_color_light": -13882324,
         "primary_text_default_material_light": -1644826,
         "primary_200": -11184811,
-        "primary_dark_200": -1118482
+        "primary_dark_200": -1118482,
+        "link_500": -10197916
     },
     "drawable_tints": {
         "drawable_button_grey": -8288631,
@@ -32,23 +33,28 @@
         "ic_status_dnd_16dp": -2829100,
         "ic_status_online_16dp": -2829100,
         "ic_status_invisible_16dp": -15132391,
-        "ic_status_24dp": -2829100
+        "ic_status_24dp": -2829100,
+        "ic_mobile": -1644826,
+        "ic_archived_clock_dark": -789517,
+        "ic_channel_pinned_message": -8355712,
+        "drawable_bg_reaction_dark": -625757261
     },
     "fonts": {
         "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968529060412149760\/JosefinSans-Medium.ttf",
-        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968530116697272350\/UbuntuMono-Regular.ttf",
         "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968561613256929280\/JosefinSans-Regular.ttf",
-        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968561891834232862\/UbuntuMono-Bold.ttf",
-        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968561891834232862\/UbuntuMono-Bold.ttf",
         "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf",
         "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf",
-        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf"
+        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/970003237233119272\/DotFontMain.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/974760167923142687\/moto.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/974760167923142687\/moto.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/974760167923142687\/moto.ttf"
     },
     "manifest": {
-        "version": "3.31",
+        "version": "3.46",
         "name": "Pure Amoled ",
-        "author": "Akita#0922",
-        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Pure-Amoled\/main\/PureAmoled.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Aliucord-Themes\/main\/PureAmoled\/PureAmoled.json",
+        "license": "GNU GPL v3.0",
+        "author": "Arathain#4785 "
     },
     "simple_colors": {
         "accent": -1052689,
